@@ -1,0 +1,54 @@
+Pulse 个人非商业使用许可证 / Personal Non-Commercial Use License
+版本 1.0，2026-11-24
+Copyright (c) 2026 Qianfna. All rights reserved.
+
+1. 许可范围
+本许可证仅适用于 Qianfna 拥有著作权的 Pulse 程序、原创代码、界面、
+图标及文档（统称“本软件”）。在遵守本许可证的前提下，你仅可为
+个人、非商业目的下载、安装和运行官方原版，并制作必要的私人备份。
+本软件是许可使用，不是出售；未明确授予的权利均由著作权人保留。
+
+2. 禁止事项
+未经著作权人事先书面许可，任何人、企业或组织均不得：
+（1）修改、改编、二次开发、制作衍生作品，或发布任何修改版；
+（2）将本软件用于任何商业、经营、营利或收费活动，包括公司业务、
+     收费服务、商业产品集成、推广获利、出租或转售；
+（3）出售、倒卖、代售、出租、转授权、捆绑销售，或以“安装费”、
+     “服务费”、“会员费”等名义变相收费；
+（4）重新打包、上传、镜像、分发或向第三方提供本软件副本，
+     无论是否收费；分享官方项目或官方下载页的链接不受此项限制；
+（5）移除、替换或伪造作者署名、版权声明、许可证、商标或品牌，
+     或将本软件冒充为自己或第三方的作品。
+公开可下载、可查看或免费提供，不代表允许修改、商用、倒卖或分发。
+
+3. 第三方组件与强制性权利
+第三方库、运行时及其附带文件，继续适用各自的许可证和版权声明，
+包括 sensors/THIRD-PARTY-NOTICES.md、sensors/third-party-components.json
+及 sensors/licenses/ 中列明的条款。本许可证不限制第三方许可证已
+授予的权利，不替代这些条款，也不声称拥有第三方作品的著作权。
+法律不得排除的权利、GitHub 服务条款要求允许的查看及平台内 fork，
+不因本许可证而被排除；平台功能本身不授予额外的修改、商用或分发权。
+此前已合法获得的其他许可证权利，不因本许可证而被追溯撤销。
+
+4. 终止
+违反本许可证时，本许可证授予的使用许可终止；你应停止使用并删除
+受本许可证约束的软件副本，但法律或适用的第三方许可证另有规定的除外。
+另行授权须通过官方 GitHub 账户 Qianfna 获得著作权人的书面许可。
+
+5. 免责声明
+本软件按“现状”提供，在法律允许的最大范围内不提供任何明示或默示
+保证。著作权人不承担因使用或无法使用本软件产生的损失，但法律明确
+规定不得免除的责任除外。
+
+English summary (the Chinese terms above govern in case of inconsistency):
+You may download, install, run and privately back up the official, unmodified
+software solely for personal, non-commercial use. Without prior written
+permission from Qianfna, modification, derivative works, commercial or business
+use, resale, rental, sublicensing, repackaging and redistribution, whether paid
+or free, are prohibited. Linking to official downloads is permitted. Preserve
+copyright and attribution notices. Third-party components remain governed by
+their own licenses, and their granted rights are not restricted by this license.
+Mandatory legal rights, GitHub's required viewing and on-platform fork rights,
+and rights already lawfully granted under earlier licenses are not revoked.
+Violation terminates this license. The software is provided AS IS, without
+warranties or liability to the maximum extent permitted by applicable law.
